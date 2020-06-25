@@ -20,7 +20,7 @@
 
 > :Title shadow=0 0 8px black, color=white
 >
-> Sample Blog Post
+> Keep your privates private!
 
 > :Author src=github
 
