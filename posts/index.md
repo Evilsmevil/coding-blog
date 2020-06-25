@@ -23,9 +23,7 @@ So here are the latest posts:
 
 > :ArticleCard src=/sample-blog-post, style=box
 
-> :ArticleCard src=/sample-blog-post, style=box
-
-> :ArticleCard src=/sample-blog-post
+> :ArticleCard src=/privates, style=box
 
 > :ArticleCard src=/sample-blog-post
 
